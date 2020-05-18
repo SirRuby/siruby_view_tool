@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-SiRubyViewTool::Renderer.copyright 'Stafford Harrison', 'All rights reserved'
+SirubyViewTool::Renderer.copyright 'Stafford Harrison', 'All rights reserved'
 ```
 
 ## Development
